@@ -1,7 +1,7 @@
 ---
 title: Methodology on COVID-19 impact surveys
 author:
-  - task-force\covid-19-and-household-surveys
+  - task-force/covid-19-and-household-surveys
 date:
 description: ISWGHS members have issued various guidelines to help countries in carrying out surveys to assess the impact of COVID-19.
 thumbnail: null

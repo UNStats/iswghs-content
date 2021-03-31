@@ -1,7 +1,7 @@
 ---
 title: National responses to COVID-19
 author:
-  - task-force\covid-19-and-household-surveys
+  - task-force/covid-19-and-household-surveys
 date:
 description: Members of the Inter-secretariat Working Group on Household Surveys are supporting countries to measure the impact of COVID-19 through sample surveys.
 thumbnail: null

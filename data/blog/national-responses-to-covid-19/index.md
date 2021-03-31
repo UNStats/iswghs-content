@@ -1,7 +1,7 @@
 ---
 title: Methodology on COVID-19 impact surveys
 author:
-  - task-force\covid-19-and-household-surveys
+  - task-force/covid-19-and-household-surveys
 date:
 description: Many countries have planned or started fieldwork for surveys during the COVID-19 pandemic. Among all household-based surveys, labour force surveys and income and expenditure surveys are the most common ones that might be impacted by COVID-19. Among those responded (122), 82 countries have planned or started fieldwork for labour force surveys and 65 countries for income and expenditure surveys.
 thumbnail: null

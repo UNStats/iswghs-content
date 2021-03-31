@@ -47,10 +47,10 @@ def parse_md_file ( path, gen_file_name, file):
 
 
 events = parse_md_collection('data/event/', 'index.md', 'events')
-events = parse_md_collection('data/document/', 'index.md', 'documents')
-events = parse_md_collection('data/blog/', 'index.md', 'blogs')
-events = parse_md_collection('data/organization/international/', 'index.md', 'organization_intl')
-events = parse_md_collection('data/organization/nso/', 'index.md', 'organization_nso')
-events = parse_md_collection('data/task-force/', 'index.md', 'task_forces')
-events = parse_md_file('data/', 'index.md', 'iswghs')
-events = parse_md_file('data/', 'index.md', 'steering-committee')
+documents = parse_md_collection('data/document/', 'index.md', 'documents')
+blogs = parse_md_collection('data/blog/', 'index.md', 'blogs')
+organizations_intl = parse_md_collection('data/organization/international/', 'index.md', 'organizations_intl')
+organizations_nso = parse_md_collection('data/organization/nso/', 'index.md', 'organizations_nso')
+task_forces = parse_md_collection('data/task-force/', 'index.md', 'task_forces')
+iswghs = parse_md_file('data/', 'index.md', 'iswghs')
+steering_committee = parse_md_file('data/', 'index.md', 'steering-committee')

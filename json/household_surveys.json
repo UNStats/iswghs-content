@@ -1,0 +1,57 @@
+[
+    {
+        "id": "data/household-survey/dhs",
+        "metadata": {
+            "title": "Demographic and Health Surveys Program",
+            "acronym": "DHS",
+            "description": "The DHS program provides technical assistance to countries on conducting demographic and health surveys, advancing global understanding of health and population trends in developing countries. Information available includes national Demographic and Health Survey data and report, as well as survey methodology documents.",
+            "url": "http://dhsprogram.com/",
+            "logo": "dhsp-logo.png"
+        },
+        "body": ""
+    },
+    {
+        "id": "data/household-survey/ihsn",
+        "metadata": {
+            "title": "International Household Survey Network",
+            "acronym": "IHSN",
+            "description": "IHSN is an informal network of international agencies that operates solely on the basis of voluntary contributions\u2014in kind or in cash\u2014from its members. Information available includes survey catalog, survey related methodological guidelines and softwares.",
+            "url": "http://www.ihsn.org/",
+            "logo": "ihsn-logo.png"
+        },
+        "body": ""
+    },
+    {
+        "id": "data/household-survey/lfs",
+        "metadata": {
+            "title": "ILO Labour Force Survey Resources",
+            "acronym": "ILO-LFS",
+            "description": "National labour force surveys (LFS) are the main source behind essential headline indicators of the labour market and the world of work. A wide range of economic and social policies, from monetary and fiscal policies to employment, decent work, vocational education and training, and a wide range of poverty reduction and social inclusion policies depend on labour force surveys as their main source of statistics for informed decision-making and monitoring.",
+            "url": "https://ilo.org/lfsresources/",
+            "logo": "ilo-lfs-resources.png"
+        },
+        "body": ""
+    },
+    {
+        "id": "data/household-survey/lsms",
+        "metadata": {
+            "title": "Living Standards Measurement Study",
+            "acronym": "LSMS",
+            "description": "The Living Standards Measurement Study (LSMS) is a household survey program focused on generating high-quality data, improving survey methods, and building capacity. The goal of the LSMS is to facilitate the use of household survey data for evidence-based policymaking.",
+            "url": "http://www.worldbank.org/lsms/",
+            "logo": "LSMS-Logo_300dpi_01.png"
+        },
+        "body": ""
+    },
+    {
+        "id": "data/household-survey/mics",
+        "metadata": {
+            "title": "Multiple Indicator Cluster Survey",
+            "acronym": "MICS",
+            "description": "The Multiple Indicator Cluster Survey (MICS) supported by UNICEF is the largest source of statistically sound and internationally comparable data on women and children worldwide helping shape policies for the improvement of their lives. Information includes MICS data and reports as well as survey methodology documents and tools.",
+            "url": "http://mics.unicef.org/",
+            "logo": "mics_logo.png"
+        },
+        "body": ""
+    }
+]

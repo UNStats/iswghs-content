@@ -1,0 +1,174 @@
+[
+    {
+        "keys": [
+            "title",
+            "description",
+            "sessions",
+            "organizers",
+            "venue",
+            "virtual",
+            "url",
+            "flyer",
+            "conceptNote",
+            "registration"
+        ],
+        "metadata": {
+            "title": "COVID-19: Assessment of the mode effect on official statistics",
+            "description": "As many countries have switched the survey mode from face-to-face to telephone due to the pandemic and are now gradually resuming face-to-face interviewing following the opening up of economies, this webinar aims to delve deeper into assessing the impact of data collection mode on official statistics and the current methodologies NSOs are using to distinguish the mode effect from the pandemic effect. The webinar will also discuss how the experiences gained by countries during the pandemic provide an opportunity for household surveys to move towards a \\\"new normal\\\"; and the challenges associated with such transition.  This event is jointly organized by ISWGHS and ECLAC.",
+            "sessions": [
+                {
+                    "start": "2020-12-07T11:00-03:00",
+                    "end": "2020-12-07T12:45-03:00"
+                }
+            ],
+            "organizers": [
+                "organization/international/uneclac",
+                "iswghs"
+            ],
+            "venue": null,
+            "virtual": true,
+            "url": "https://rtc-cea.cepal.org/en/event/covid-19-assessment-mode-effect-official-statistics",
+            "flyer": null,
+            "conceptNote": "https://rtc-cea.cepal.org/sites/default/files/2020-11/Concept%20Note%20-%20ISWGHS.ECLAC_.webinar%20Final%202.pdf",
+            "registration": null
+        },
+        "body": ""
+    },
+    {
+        "keys": [
+            "title",
+            "description",
+            "sessions",
+            "organizers",
+            "venue",
+            "virtual",
+            "url",
+            "flyer",
+            "conceptNote",
+            "registration"
+        ],
+        "metadata": {
+            "title": "Asia-Pacific Stats Caf\u00e9: Is COVID-19 introducing mode effects into your official statistics?",
+            "description": "The COVID-19 pandemic resulted in a range of impacts to statistical operations including abruptly stopping face to face data collections. Many National Statistical Office turned to telephone or web interviews to maintain time series continuity and monitor the health and socio-economic impact of the pandemic.  Using alternative modes however, raises issues of time series comparability due to possible mode effects. This Caf\u00e9 discussed mode effect assessment methodologies, lessons learned during COVID-19 with alternative modes of data collection, the potential of a \\\"mixed mode\\\" approach moving forward, and elements to consider for a cost effective data collection mode that produces high quality data.",
+            "sessions": [
+                {
+                    "start": "2021-02-01T11:00+07:00",
+                    "end": "2021-02-01T12:30+07:00"
+                }
+            ],
+            "organizers": [
+                "organization/international/unescap",
+                "iswghs"
+            ],
+            "venue": null,
+            "virtual": true,
+            "url": "https://www.unescap.org/events/2021/asia-pacific-stats-cafe-series-covid-19-introducing-mode-effects-your-official",
+            "flyer": "https://www.unescap.org/sites/default/d8files/event-documents/Flyer_COVID19_effects_official_statistics_Stats_Cafe_1Feb2021.pdf",
+            "conceptNote": null,
+            "registration": null
+        },
+        "body": ""
+    },
+    {
+        "keys": [
+            "title",
+            "description",
+            "sessions",
+            "organizers",
+            "venue",
+            "virtual",
+            "url",
+            "flyer",
+            "conceptNote",
+            "registration"
+        ],
+        "metadata": {
+            "title": "Stats Caf\u00e9: Weighting, estimation and imputation in mix-mode data collections",
+            "description": "With the COVID-19 pandemic significantly changing our world, official statisticians are now urged to apply new approaches to reduce face to face data collections. One approach has been switching to mixed mode surveys, where a combination of modes such as face-to-face, telephone, web based questionnaire, etc. is used to collect data. Although this approach seems promising, there are technical issues that should be considered and technical capacity has not always caught up with demands.",
+            "sessions": [
+                {
+                    "start": "2021-02-15T11:00+07:00",
+                    "end": "2021-02-15T12:00+07:00"
+                }
+            ],
+            "organizers": [
+                "organization/international/unescap",
+                "organization/international/unsd"
+            ],
+            "venue": null,
+            "virtual": true,
+            "url": "https://www.unescap.org/events/2021/asia-pacific-stats-cafe-series-weighting-estimation-and-imputation-mixed-mode-data",
+            "flyer": "https://www.unescap.org/sites/default/d8files/event-documents/Flyer_Weighting-mix_mode_data_collection_Stats_Cafe_15Feb2021.pdf",
+            "conceptNote": null,
+            "registration": null
+        },
+        "body": ""
+    },
+    {
+        "keys": [
+            "title",
+            "description",
+            "sessions",
+            "organizers",
+            "venue",
+            "virtual",
+            "url",
+            "flyer",
+            "conceptNote",
+            "registration"
+        ],
+        "metadata": {
+            "title": "Household Surveys in a Changing Data Landscape: Challenges, Opportunities and an Agenda for the Future",
+            "description": "This Friday Seminar on Emerging Issues, leading to the 51st Session of the United Nations Statistical Commission, provided a platform for national statistical offices, international organisations and the research community to debate and discuss strategies to realise the full potential of household surveys in this new environment.",
+            "sessions": [
+                {
+                    "start": "2020-02-28T10:00-05:00",
+                    "end": "2020-02-28T18:00-05:00"
+                }
+            ],
+            "organizers": [
+                "organization/international/unsd",
+                "iswghs"
+            ],
+            "venue": "UN Headquarters, Conference Room 4",
+            "virtual": false,
+            "url": "https://unstats.un.org/unsd/statcom/51st-session/side-events/20200228-1M-friday-seminar-on-emerging-issues",
+            "flyer": null,
+            "conceptNote": "https://unstats.un.org/unsd/statcom/51st-session/side-events/documents/Friday%20seminar%20final.pdf",
+            "registration": null
+        },
+        "body": ""
+    },
+    {
+        "keys": [
+            "title",
+            "description",
+            "sessions",
+            "organizers",
+            "venue",
+            "virtual",
+            "url",
+            "flyer",
+            "registration"
+        ],
+        "metadata": {
+            "title": "UN Statistical Commission side event: Positioning Household Surveys for the Next Decade",
+            "description": "This session provided a platform for national statistical offices, international organizations, the research community, and civil society organizations to share their views on how household surveys should be best positioned for the next decade and discuss the preparation of a paper on Positioning Household Surveys for the Next Decade.",
+            "sessions": [
+                {
+                    "start": "2021-02-19T08:00-05:00",
+                    "end": "2021-02-19T09:30-05:00"
+                }
+            ],
+            "organizers": [
+                "iswghs"
+            ],
+            "venue": null,
+            "virtual": true,
+            "url": "https://unstats.un.org/unsd/statcom/52nd-session/side-events/20210219-1M-positioning-household-surveys-for-the-next-decade",
+            "flyer": "https://unstats.un.org/unsd/statcom/52nd-session/side-events/19Feb-Positioning-Household-Surveys-for-the-Next-Decade.pdf",
+            "registration": null
+        },
+        "body": ""
+    }
+]

@@ -1,15 +1,22 @@
 ---
-id:
-name:
-round:
-description:
-members:
-  -
-  -
-activities:
-  -
-  -
+id: measuring-food-consumption-in-hhs
+name: Measuring food consumption in household surveys
+round: 1
+description: The objective of the task force is to facilitate the development and adoption of new international statistical standards in the area of food consumption data collection in household surveys. The ISWGHS Task Force on measuring food consumption in household surveys has recently published a set of Guidelines on the measurement of food consumption for low- and middle-income countries.
+members: []
+activities: []
 outputs:
-  -
-  -
+  - document\food-data-collection-in-consumption-and-expenditure-hhs
 ---
+
+The measurement of food consumption and expenditure is a fundamental component of poverty and food security analysis, which is needed to monitor global targets, including the Sustainable Development Goals. It is also important for national accounts measures and to guide local and regional analysis and policy. The mismeasurement of food consumption can lead to mistaken poverty and food insecurity assessments, leading in turn to the misallocation of funds and compromise the design, monitoring, and evaluation of relevant policies and programs.
+
+Current practices for collecting food consumption data differ widely across types of surveys, between countries, and over time, making their interpretation and analysis particularly difficult and compromising comparability. The report puts forward a set of internationally agreed recommendations that when adopted in future Household Consumption and Expenditure Surveys (HCES) can improve the quality and comparability of food consumption data.
+
+In 2014, the [International Household Survey Network published a desk review](http://www.ihsn.org/food) of the reliability and relevance of survey questions as included in 100 household surveys from low- and middle-income countries. The assessment painted a bleak picture in terms of heterogeneity in survey design and overall relevance and reliability of the data being collected. On the positive side, it pointed to many areas in which even marginal changes to survey and questionnaire design could lead to a significant increase in reliability and consequently, great improvements in measurement accuracy. The assessment report sparked substantial interest from development partners and UNSC member countries. The ISWGHS Management Group selected the harmonization of food consumption modules as one of the priority tasks for the Group, and mandated the Inter-Agency and Expert Group on Food Security, Agricultural and Rural Statistics (IAEG-AG) to act as the ISWGHS task force on measuring food consumption in household surveys and to produce a guideline document.
+
+The work started with an expert workshop that took place in Rome in November 2014. Successive versions of the guidelines were drafted and discussed at various IAEG-AG meetings, and in another expert workshop organized in November 2016 in Rome. Results from a research program linked to this work were published in a special issue of the journal _[Food Policy](https://www.sciencedirect.com/science/article/pii/S0306919217306802?via%3Dihub)_ in 2017.
+
+The guidelines were put together by a team led by FAO and the World Bank, with inputs from representatives of national statistical offices, international organizations, survey practitioners, academics, and experts in different disciplines. In December 2017 a draft of the guidelines was circulated to 148 National Statistical Offices from low- to high-income countries for comments. Following this global consultation, the document was revised and [submitted to UNSC](https://unstats.un.org/unsd/statcom/49th-session/documents/BG-Item3j-Guidelines-Food-Consumption-E.pdf), which endorsed it at its forty-ninth session in March 2018. The process received support from the [Global Strategy for Agricultural and Rural Statistics](http://www.gsars.org/).
+
+The Guidelines are intended to be a reference document for National Statistical Offices, survey practitioners, and national and international agencies designing household surveys that involve the collection of food consumption and expenditure data. The recommendations in the report are intended to assist practitioners in improving survey design, while considering the cost of organizing a survey and the constraints statistical offices in low- and middle-income countries face. To stay relevant, the recommendations will have to evolve over time as additional research and new technologies become available. For instance, changes in consumer behaviour and in how food systems change may lead to a rethinking of the underlying survey design principles.

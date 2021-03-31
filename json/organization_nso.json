@@ -1,0 +1,170 @@
+[
+    {
+        "keys": [
+            "name",
+            "acronym",
+            "country",
+            "countryISO",
+            "countryM49",
+            "url",
+            "logo"
+        ],
+        "metadata": {
+            "name": "Departamento Administrativo Nacional de Estad\u00edstica",
+            "acronym": "DANE",
+            "country": "Colombia",
+            "countryISO": "COL",
+            "countryM49": 170,
+            "url": "https://www.dane.gov.co/",
+            "logo": null
+        },
+        "body": ""
+    },
+    {
+        "keys": [
+            "name",
+            "acronym",
+            "country",
+            "countryISO",
+            "countryM49",
+            "url",
+            "logo"
+        ],
+        "metadata": {
+            "name": "Ghana Statistical Service",
+            "acronym": "GSS",
+            "country": "Ghana",
+            "countryISO": "GHA",
+            "countryM49": 288,
+            "url": "www.statsghana.gov.gh",
+            "logo": null
+        },
+        "body": ""
+    },
+    {
+        "keys": [
+            "name",
+            "acronym",
+            "country",
+            "countryISO",
+            "countryM49",
+            "url",
+            "logo"
+        ],
+        "metadata": {
+            "name": "Ministry of Statistics and Programme Implementation",
+            "acronym": "MOSPI",
+            "country": "India",
+            "countryISO": "IND",
+            "countryM49": 356,
+            "url": "https://www.mospi.gov.in/",
+            "logo": null
+        },
+        "body": ""
+    },
+    {
+        "keys": [
+            "name",
+            "acronym",
+            "country",
+            "countryISO",
+            "countryM49",
+            "url",
+            "logo"
+        ],
+        "metadata": {
+            "name": "Department of Statistics Malaysia",
+            "acronym": "DOSM",
+            "country": "Malaysia",
+            "countryISO": "MYS",
+            "countryM49": 458,
+            "url": "https://www.dosm.gov.my/v1/",
+            "logo": null
+        },
+        "body": ""
+    },
+    {
+        "keys": [
+            "name",
+            "acronym",
+            "country",
+            "countryISO",
+            "countryM49",
+            "url",
+            "logo"
+        ],
+        "metadata": {
+            "name": "Institut National de la Statistique",
+            "acronym": "INS",
+            "country": "Niger",
+            "countryISO": "NER",
+            "countryM49": 562,
+            "url": "http://www.stat-niger.org/",
+            "logo": null
+        },
+        "body": ""
+    },
+    {
+        "keys": [
+            "name",
+            "acronym",
+            "country",
+            "countryISO",
+            "countryM49",
+            "url",
+            "logo"
+        ],
+        "metadata": {
+            "name": "Palestinian Central Bureau of Statistics",
+            "acronym": "PCBS",
+            "country": "State of Palestine",
+            "countryISO": "PSE",
+            "countryM49": 275,
+            "url": "http://www.pcbs.gov.ps/",
+            "logo": null
+        },
+        "body": ""
+    },
+    {
+        "keys": [
+            "name",
+            "acronym",
+            "country",
+            "countryISO",
+            "countryM49",
+            "url",
+            "logo"
+        ],
+        "metadata": {
+            "name": "Statistics Sweden",
+            "acronym": "SCB",
+            "country": "Sweden",
+            "countryISO": "SWE",
+            "countryM49": 752,
+            "url": "https://www.scb.se/en/",
+            "logo": null
+        },
+        "body": ""
+    },
+    {
+        "keys": [
+            "name",
+            "acronym",
+            "country",
+            "countryISO",
+            "countryM49",
+            "url",
+            "logo"
+        ],
+        "metadata": {
+            "name": "Samoa Bureau of Statistics",
+            "acronym": "SBS",
+            "country": "Samoa",
+            "countryISO": "WSM",
+            "countryM49": 170,
+            "url": "https://www.sbs.gov.ws/",
+            "logo": null
+        },
+        "body": ""
+    }
+]

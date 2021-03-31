@@ -1,0 +1,197 @@
+[
+    {
+        "keys": [
+            "name",
+            "acronym",
+            "url",
+            "logo"
+        ],
+        "metadata": {
+            "name": "Food and Agriculture Organization of the United Nations",
+            "acronym": "FAO",
+            "url": "http://www.fao.org/",
+            "logo": null
+        },
+        "body": ""
+    },
+    {
+        "keys": [
+            "name",
+            "acronym",
+            "url",
+            "logo"
+        ],
+        "metadata": {
+            "name": "International Labour Organization",
+            "acronym": "ILO",
+            "url": "https://www.ilo.org/",
+            "logo": null
+        },
+        "body": ""
+    },
+    {
+        "keys": [
+            "name",
+            "acronym",
+            "url",
+            "logo"
+        ],
+        "metadata": {
+            "name": "United Nations Development Programme",
+            "acronym": "UNDP",
+            "url": "https://www.undp.org/",
+            "logo": null
+        },
+        "body": ""
+    },
+    {
+        "keys": [
+            "name",
+            "acronym",
+            "url",
+            "logo"
+        ],
+        "metadata": {
+            "name": "United Nations Economic Commission for Latin America and the Caribbean",
+            "acronym": "UNECLAC",
+            "url": "https://www.cepal.org/",
+            "logo": null
+        },
+        "body": ""
+    },
+    {
+        "keys": [
+            "name",
+            "acronym",
+            "url",
+            "logo"
+        ],
+        "metadata": {
+            "name": "United Nations Economic Commission for Asia and the Pacific",
+            "acronym": "UNESCAP",
+            "url": "https://www.unescap.org/",
+            "logo": null
+        },
+        "body": ""
+    },
+    {
+        "keys": [
+            "name",
+            "acronym",
+            "url",
+            "logo"
+        ],
+        "metadata": {
+            "name": "United Nations Educational, Scientific and Curltural Organization",
+            "acronym": "UNESCO",
+            "url": "https://en.unesco.org/",
+            "logo": null
+        },
+        "body": ""
+    },
+    {
+        "keys": [
+            "name",
+            "acronym",
+            "url",
+            "logo"
+        ],
+        "metadata": {
+            "name": "UNESCO Institute for Statistics",
+            "acronym": "UIS",
+            "url": "http://uis.unesco.org/",
+            "logo": null
+        },
+        "body": ""
+    },
+    {
+        "keys": [
+            "name",
+            "acronym",
+            "url",
+            "logo"
+        ],
+        "metadata": {
+            "name": "United Nations High Commissioner for Refugees",
+            "acronym": "UNHCR",
+            "url": "https://www.unhcr.org/",
+            "logo": null
+        },
+        "body": ""
+    },
+    {
+        "keys": [
+            "name",
+            "acronym",
+            "url",
+            "logo"
+        ],
+        "metadata": {
+            "name": "United Nations Office on Drugs and Crime",
+            "acronym": "UNODC",
+            "url": "http://www.unodc.org",
+            "logo": null
+        },
+        "body": ""
+    },
+    {
+        "keys": [
+            "name",
+            "acronym",
+            "url",
+            "logo"
+        ],
+        "metadata": {
+            "name": "United Nations Statistics Division",
+            "acronym": "unsd",
+            "url": "https://unstats.un.org/",
+            "logo": null
+        },
+        "body": ""
+    },
+    {
+        "keys": [
+            "name",
+            "acronym",
+            "url",
+            "logo"
+        ],
+        "metadata": {
+            "name": "UN Women",
+            "acronym": null,
+            "url": "https://www.unwomen.org/",
+            "logo": null
+        },
+        "body": ""
+    },
+    {
+        "keys": [
+            "name",
+            "acronym",
+            "url",
+            "logo"
+        ],
+        "metadata": {
+            "name": "The World Bank",
+            "acronym": "WB",
+            "url": "https://www.worldbank.org/",
+            "logo": null
+        },
+        "body": ""
+    },
+    {
+        "keys": [
+            "name",
+            "acronym",
+            "url",
+            "logo"
+        ],
+        "metadata": {
+            "name": "World Health Organization",
+            "acronym": "WHO",
+            "url": "https://www.who.int",
+            "logo": null
+        },
+        "body": ""
+    }
+]

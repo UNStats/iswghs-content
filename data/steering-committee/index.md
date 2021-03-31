@@ -1,13 +1,8 @@
 ---
 name: Steering Committee
 description: The work of the Inter-secretariat Working Group Household Surveys is governed by a Steering Committee consisting of international agencies that provide regular financial and in-kind contributions to support the Group’s work programme as well as by a core group of up to 5 countries, one per region.
-members:
-  -
-  -
-  -
-co-chairs:
-  -
-  -
+members: []
+co-chairs: []
 ---
 
 The Steering Committee plans the work programme for the Inter-secretariat Working Group and oversees the work of the task forces. The Steering Committee meets regularly to discuss priorities and review work progress and keeps all members of the Group informed about important discussions and key decisions.

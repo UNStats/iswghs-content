@@ -1,5 +1,6 @@
 [
     {
+        "id": "data/document/availability-and-reliability-of-education-finance-data-in-hhs",
         "metadata": {
             "title": "Availability and reliability of education finance data in household surveys",
             "description": "This report examines the availability and reliability of data on household expenditure on education for the production and analysis of Sustainable Development Goals (SDG) indicator 4.5.4 (education expenditure per student  by  level  of  education  and  source  of  funding)and  other  relevant  indicators  based  on  household expenditure on education.",
@@ -18,6 +19,7 @@
         "body": ""
     },
     {
+        "id": "data/document/food-data-collection-in-consumption-and-expenditure-hhs",
         "metadata": {
             "title": "Food data collection in household consumption and expenditure surveys: Guidelines for low-and middle-income countries",
             "description": "The Guidelines are intended to be a reference document for National Statistical Offices, survey practitioners, and national and international agencies designing household surveys that involve the collection of food consumption and expenditure data.  The recommendations in these guidelines are intended to assist practitioners in improving survey design, while taking into account the cost of organizing a survey and the constraints statistical offices in low- and middle-income countries face. The guidelines were put together by a team led by FAO and the World Bank, with inputs from representatives of national statistical offices, international organizations, survey practitioners, academics, and experts in different disciplines.",
@@ -38,6 +40,7 @@
         "body": "<h2>Background</h2>\n<p>In December 2017 a draft of the guidelines was circulated to 148 National Statistical Offices from low- to high-income countries for comments. Following this global consultation, the document was revised and <a href=\"https://unstats.un.org/unsd/statcom/49th-session/documents/BG-Item3j-Guidelines-Food-Consumption-E.pdf\">submitted to UNSC</a>, which endorsed it at its forty-ninth session in March 2018. The process received support from the <a href=\"http://www.gsars.org/\">Global Strategy for Agricultural and Rural Statistics</a>.</p>\n"
     },
     {
+        "id": "data/document/guidance-on-sampling-in-hhs-for-sdgs-concept-note",
         "metadata": {
             "title": "Concept note: Guidance notes on sampling in household surveys for SDGs",
             "description": null,
@@ -54,6 +57,7 @@
         "body": ""
     },
     {
+        "id": "data/document/measuring-household-expenditure-on-education",
         "metadata": {
             "title": "Measuring Household Expenditure on Education: A Guidebook for Designing Household Survey Questionnaires",
             "description": "This Guidebook is intended to be a reference for survey practitioners seeking guidance on designing and implementing house-hold surveys that include measurement of education expenditure. This Guidebook highlights important considerations and best practices for designing and implementing a module for collecting high-quality household education-expenditure data.",
@@ -72,6 +76,7 @@
         "body": ""
     },
     {
+        "id": "data/document/planning-and-implementing-household-surveys-under-covid-19",
         "metadata": {
             "title": "Planning and Implementing Household Surveys Under COVID-19",
             "description": "With face to face survey operations and social distancing measures creating challenges for the process of data gathering through surveys in many countries. This technical guidance note produced and released by the Inter-Secretariat Working Group on Household Surveys provides guidance on considerations to help mitigate the risk of COVID-19 transmission during survey field work and to maintain, to the extent possible, continuity in survey operations.",
@@ -88,6 +93,7 @@
         "body": ""
     },
     {
+        "id": "data/document/spatial-anonymization-guidance-note",
         "metadata": {
             "title": "Spatial Anonymization: Guidance Note prepared for the Inter-Secretariat Working Group on Household Surveys",
             "description": "This document summarizes key issues related to the dissemination of spatial data with household surveys. The content is for review and comment and is subject to change. The document was produced by members of the DHS program of ICF and the Development Data Group of the World Bank.",
@@ -104,6 +110,7 @@
         "body": ""
     },
     {
+        "id": "data/document/status-of-activities-taskforce-hhs-module-on-sdg-16-indicators",
         "metadata": {
             "title": "Status of activities",
             "description": "Status of activities as of February 2020 by the ISWGHS Task Force on Development and testing of a survey module on SDG 16 indicators for inclusion in on-going household surveys",
@@ -120,6 +127,7 @@
         "body": ""
     },
     {
+        "id": "data/document/toolkit-on-small-area-estimation-for-the-sdgs-outline",
         "metadata": {
             "title": "A Toolkit on Small Area Estimation for the SDGs: Outline",
             "description": null,
@@ -136,6 +144,7 @@
         "body": ""
     },
     {
+        "id": "data/document/un46sc-report-decisions",
         "metadata": {
             "title": "Report on the forty-sixth session of the Statistical Commission",
             "description": "The Statistical Commission, in its decision 46/105 (d) on Household Surveys, endorsed the establishment of the Intersecretariat Working Group on Household Surveys, under the aegis of the Statistics Division, in order to foster the coordination and harmonization of household survey activities.",
@@ -154,6 +163,7 @@
         "body": ""
     },
     {
+        "id": "data/document/un46sc-report-wb-improving-hhs-in-post-2015-era",
         "metadata": {
             "title": "Report of the World Bank on improving household surveys in the post-2015 development era: issues and recommendations for a shared agenda",
             "description": "Add description here.",
@@ -172,6 +182,7 @@
         "body": ""
     },
     {
+        "id": "data/document/un47sc-report-iswghs",
         "metadata": {
             "title": "Report of the Secretary-General on the Inter-secretariat Working Group on Household Surveys",
             "description": "Report to the forty-seventh session of the United Nations Statistical Commission providing an overview of progress achieved in the preparation of the terms of reference of the Inter-secretariat Working Group on Household Surveys.",
@@ -190,6 +201,7 @@
         "body": ""
     },
     {
+        "id": "data/document/un48sc-bg-information-on-hhs-methodological-work-by-agencies",
         "metadata": {
             "title": "Information on household survey based methodological work completed, currently in progress or planned by agencies",
             "description": "Background document presented at the forty-eighth session of the United Nations Statistical Commission.",
@@ -208,6 +220,7 @@
         "body": ""
     },
     {
+        "id": "data/document/un48sc-bg-training-and-guidance-materials-on-household-surveys",
         "metadata": {
             "title": "List of training and guidance materials on household surveys (Excel)",
             "description": "Background document presented at the forty-eighth session of the United Nations Statistical Commission.",
@@ -226,6 +239,7 @@
         "body": ""
     },
     {
+        "id": "data/document/un48sc-report-iswghs",
         "metadata": {
             "title": "Report of the Secretary-General on the Inter-secretariat Working Group on Household Surveys",
             "description": "Report to the forty-eighth session of the United Nations Statistical Commission providing a summary of the work of the Inter-secretariat  Working Group on Household Surveys. It provides information on the establishment of the governance mechanism and the programme of activities initiated and to be undertaken by the Inter-secretariat Working Group to foster the coordination and integration of household survey activities.",
@@ -244,6 +258,7 @@
         "body": ""
     },
     {
+        "id": "data/document/un49sc-bg-funding-proposal-for-iswghs",
         "metadata": {
             "title": "Fostering Methodological Advances and Improving Global Coordination in Household Surveys: Funding Proposal for Inter-Secretariat Working Group on Household Survey ",
             "description": "Background document presented by the Inter-Secretariat Working Group on Household Surveys at the forty-ninth session of the United Nations Statistical Commission",
@@ -262,6 +277,7 @@
         "body": ""
     },
     {
+        "id": "data/document/un49sc-bg-list-of-training-and-guidance-materials-on-hhs",
         "metadata": {
             "title": "List of training and guidance materials on houshold surveys",
             "description": "Background document presented by the Inter-Secretariat Working Group on Household Surveys at the forty-ninth session of the United Nations Statistical Commission",
@@ -280,6 +296,7 @@
         "body": ""
     },
     {
+        "id": "data/document/un49sc-report-iswghs",
         "metadata": {
             "title": "Report of Inter-secretariat Working Group on Household Surveys",
             "description": "The report, presented at the forty-ninth session of the United Nations Statistical commission, provides a summary of the recent activities  undertaken  by  the Inter-secretariat Working Group on Household Surveys, including the mapping of global Sustainable Development Goal indicators and household surveys. The report contains a proposal for establishment of a trust fund for the implementation of various future activities of the Group.",
@@ -298,6 +315,7 @@
         "body": ""
     },
     {
+        "id": "data/document/un50sc-bg-achieving-the-full-potential-of-hhs-in-the-sdg-era",
         "metadata": {
             "title": "Achieving the full potential of household surveys in the SDG era",
             "description": "Background document presented by the Inter-Secretariat Working Group on Household Surveys to the fiftieth session of the United Nations Statistical Commission.",
@@ -316,6 +334,7 @@
         "body": ""
     },
     {
+        "id": "data/document/un50sc-bg-mapping-of-sdg-indicators",
         "metadata": {
             "title": "Intersecretariat Working Group on Household Surveys : Mapping of SDG Indicators",
             "description": "Mapping of the range of global Sustainable Development Goal indicators for which data can be derived from household surveys, based on information on current or proposed use of household surveys for SDG monitoring. A preliminary analysis shows that a total of 77 of the SDG indicators can be sourced (either currently or on the basis of a proposal) from household surveys. This is spread widely across topics (13 of the 17 Goals are involved) but with the greatest concentration in the areas of health, education, gender equality, poverty, hunger, labour and justice. The mapping exercise is described in paragraphs 8 and 9 of the Report of the Intersecretariat Working Group on Household Surveys to the 49th Session of the UN Statistical Commission (doc CN.3/2018/7), and was presented as a background document at the 50th Session of the United Nations Statistical Commission.",
@@ -334,6 +353,7 @@
         "body": ""
     },
     {
+        "id": "data/document/un50sc-report-iswghs",
         "metadata": {
             "title": "Report of the Inter-secretariat Working Group on Household Surveys",
             "description": "Report of the Intersecretariat Working Group on Household Surveys to the Fiftieth session of the United Nations Statistical Commission, providing a summary of the recent activities undertaken by the Working Group, including refocusing its work towards cross-cutting issues and the  mapping of global SDG indicators that can be derived from household surveys.",
@@ -352,6 +372,7 @@
         "body": ""
     },
     {
+        "id": "data/document/un51sc-report-review-of-progress-towards-the-sdgs",
         "metadata": {
             "title": "Work for the review of progress towards the Sustainable Development Goals",
             "description": "Report of the Secretary-General to the fifty-first session of the United Nations Statistical Commission, providing a short summary of the recent activities undertaken by the Intersecretariat Working Group on Household Surveys on data disaggregation for the Sustainable Development Goals.",

@@ -1,5 +1,6 @@
 [
     {
+        "id": "data/organization/nso/col-dane",
         "metadata": {
             "name": "Departamento Administrativo Nacional de Estad\u00edstica",
             "acronym": "DANE",
@@ -12,6 +13,7 @@
         "body": ""
     },
     {
+        "id": "data/organization/nso/gha-gss",
         "metadata": {
             "name": "Ghana Statistical Service",
             "acronym": "GSS",
@@ -24,6 +26,7 @@
         "body": ""
     },
     {
+        "id": "data/organization/nso/ind-mospi",
         "metadata": {
             "name": "Ministry of Statistics and Programme Implementation",
             "acronym": "MOSPI",
@@ -36,6 +39,7 @@
         "body": ""
     },
     {
+        "id": "data/organization/nso/mys-dosm",
         "metadata": {
             "name": "Department of Statistics Malaysia",
             "acronym": "DOSM",
@@ -48,6 +52,7 @@
         "body": ""
     },
     {
+        "id": "data/organization/nso/ner-ins",
         "metadata": {
             "name": "Institut National de la Statistique",
             "acronym": "INS",
@@ -60,6 +65,7 @@
         "body": ""
     },
     {
+        "id": "data/organization/nso/pse-pcbs",
         "metadata": {
             "name": "Palestinian Central Bureau of Statistics",
             "acronym": "PCBS",
@@ -72,6 +78,7 @@
         "body": ""
     },
     {
+        "id": "data/organization/nso/swe-scb",
         "metadata": {
             "name": "Statistics Sweden",
             "acronym": "SCB",
@@ -84,6 +91,7 @@
         "body": ""
     },
     {
+        "id": "data/organization/nso/wsm-sbs",
         "metadata": {
             "name": "Samoa Bureau of Statistics",
             "acronym": "SBS",

@@ -1,5 +1,6 @@
 [
     {
+        "id": "data/organization/international/fao",
         "metadata": {
             "name": "Food and Agriculture Organization of the United Nations",
             "acronym": "FAO",
@@ -9,6 +10,7 @@
         "body": ""
     },
     {
+        "id": "data/organization/international/ilo",
         "metadata": {
             "name": "International Labour Organization",
             "acronym": "ILO",
@@ -18,6 +20,7 @@
         "body": ""
     },
     {
+        "id": "data/organization/international/undp",
         "metadata": {
             "name": "United Nations Development Programme",
             "acronym": "UNDP",
@@ -27,6 +30,7 @@
         "body": ""
     },
     {
+        "id": "data/organization/international/uneclac",
         "metadata": {
             "name": "United Nations Economic Commission for Latin America and the Caribbean",
             "acronym": "UNECLAC",
@@ -36,6 +40,7 @@
         "body": ""
     },
     {
+        "id": "data/organization/international/unescap",
         "metadata": {
             "name": "United Nations Economic Commission for Asia and the Pacific",
             "acronym": "UNESCAP",
@@ -45,6 +50,7 @@
         "body": ""
     },
     {
+        "id": "data/organization/international/unesco",
         "metadata": {
             "name": "United Nations Educational, Scientific and Curltural Organization",
             "acronym": "UNESCO",
@@ -54,6 +60,7 @@
         "body": ""
     },
     {
+        "id": "data/organization/international/unesco-uis",
         "metadata": {
             "name": "UNESCO Institute for Statistics",
             "acronym": "UIS",
@@ -63,6 +70,7 @@
         "body": ""
     },
     {
+        "id": "data/organization/international/unhcr",
         "metadata": {
             "name": "United Nations High Commissioner for Refugees",
             "acronym": "UNHCR",
@@ -72,6 +80,7 @@
         "body": ""
     },
     {
+        "id": "data/organization/international/unodc",
         "metadata": {
             "name": "United Nations Office on Drugs and Crime",
             "acronym": "UNODC",
@@ -81,6 +90,7 @@
         "body": ""
     },
     {
+        "id": "data/organization/international/unsd",
         "metadata": {
             "name": "United Nations Statistics Division",
             "acronym": "unsd",
@@ -90,6 +100,7 @@
         "body": ""
     },
     {
+        "id": "data/organization/international/unwomen",
         "metadata": {
             "name": "UN Women",
             "acronym": null,
@@ -99,6 +110,7 @@
         "body": ""
     },
     {
+        "id": "data/organization/international/wb",
         "metadata": {
             "name": "The World Bank",
             "acronym": "WB",
@@ -108,6 +120,7 @@
         "body": ""
     },
     {
+        "id": "data/organization/international/who",
         "metadata": {
             "name": "World Health Organization",
             "acronym": "WHO",

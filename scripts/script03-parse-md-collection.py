@@ -14,7 +14,7 @@ def parse_md_collection ( path, gen_file_name, collection_name):
 
         # Example
 
-        data['keys'] = list(doc.keys())
+        #data['keys'] = list(doc.keys())
         data['metadata'] = doc.metadata
         data['body'] = marko.convert(doc.content)
 
@@ -35,7 +35,7 @@ def parse_md_file ( path, gen_file_name, file):
 
     # Example
 
-    data['keys'] = list(doc.keys())
+    #data['keys'] = list(doc.keys())
     data['metadata'] = doc.metadata
     data['body'] = marko.convert(doc.content)
 

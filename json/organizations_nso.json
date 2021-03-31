@@ -1,14 +1,5 @@
 [
     {
-        "keys": [
-            "name",
-            "acronym",
-            "country",
-            "countryISO",
-            "countryM49",
-            "url",
-            "logo"
-        ],
         "metadata": {
             "name": "Departamento Administrativo Nacional de Estad\u00edstica",
             "acronym": "DANE",
@@ -21,15 +12,6 @@
         "body": ""
     },
     {
-        "keys": [
-            "name",
-            "acronym",
-            "country",
-            "countryISO",
-            "countryM49",
-            "url",
-            "logo"
-        ],
         "metadata": {
             "name": "Ghana Statistical Service",
             "acronym": "GSS",
@@ -42,15 +24,6 @@
         "body": ""
     },
     {
-        "keys": [
-            "name",
-            "acronym",
-            "country",
-            "countryISO",
-            "countryM49",
-            "url",
-            "logo"
-        ],
         "metadata": {
             "name": "Ministry of Statistics and Programme Implementation",
             "acronym": "MOSPI",
@@ -63,15 +36,6 @@
         "body": ""
     },
     {
-        "keys": [
-            "name",
-            "acronym",
-            "country",
-            "countryISO",
-            "countryM49",
-            "url",
-            "logo"
-        ],
         "metadata": {
             "name": "Department of Statistics Malaysia",
             "acronym": "DOSM",
@@ -84,15 +48,6 @@
         "body": ""
     },
     {
-        "keys": [
-            "name",
-            "acronym",
-            "country",
-            "countryISO",
-            "countryM49",
-            "url",
-            "logo"
-        ],
         "metadata": {
             "name": "Institut National de la Statistique",
             "acronym": "INS",
@@ -105,15 +60,6 @@
         "body": ""
     },
     {
-        "keys": [
-            "name",
-            "acronym",
-            "country",
-            "countryISO",
-            "countryM49",
-            "url",
-            "logo"
-        ],
         "metadata": {
             "name": "Palestinian Central Bureau of Statistics",
             "acronym": "PCBS",
@@ -126,15 +72,6 @@
         "body": ""
     },
     {
-        "keys": [
-            "name",
-            "acronym",
-            "country",
-            "countryISO",
-            "countryM49",
-            "url",
-            "logo"
-        ],
         "metadata": {
             "name": "Statistics Sweden",
             "acronym": "SCB",
@@ -147,15 +84,6 @@
         "body": ""
     },
     {
-        "keys": [
-            "name",
-            "acronym",
-            "country",
-            "countryISO",
-            "countryM49",
-            "url",
-            "logo"
-        ],
         "metadata": {
             "name": "Samoa Bureau of Statistics",
             "acronym": "SBS",

@@ -1,15 +1,4 @@
 {
-    "keys": [
-        "name",
-        "acronym",
-        "description",
-        "tagline",
-        "members",
-        "co-chairs",
-        "secretariat",
-        "activities",
-        "outputs"
-    ],
     "metadata": {
         "name": "Inter-secretariat Working Group on Household Surveys",
         "acronym": "ISWGHS",

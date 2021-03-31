@@ -1,14 +1,5 @@
 [
     {
-        "keys": [
-            "title",
-            "author",
-            "date",
-            "description",
-            "thumbnail",
-            "images",
-            "keywords"
-        ],
         "metadata": {
             "title": "National responses to COVID-19",
             "author": [
@@ -23,15 +14,6 @@
         "body": "<div class='tableauPlaceholder' id='viz1594234244349' style='position: relative'>\n  <noscript>\n    <a href='#'>\n      <img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;CO&#47;COVID-19impactsurveys&#47;DashboardMap&#47;1_rss.png' style='border: none' />\n    </a>\n  </noscript>\n  <object class='tableauViz'  style='display:none;'>\n    <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />\n    <param name='embed_code_version' value='3' />\n    <param name='site_root' value='' />\n    <param name='name' value='COVID-19impactsurveys&#47;DashboardMap' />\n    <param name='tabs' value='no' />\n    <param name='toolbar' value='yes' />\n    <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;CO&#47;COVID-19impactsurveys&#47;DashboardMap&#47;1.png' />\n    <param name='animate_transition' value='yes' />\n    <param name='display_static_image' value='yes' />\n    <param name='display_spinner' value='yes' />\n    <param name='display_overlay' value='yes' />\n    <param name='display_count' value='yes' />\n    <param name='language' value='en' />\n  </object>\n</div>\n<script type='text/javascript'>\n  var divElement = document.getElementById('viz1594234244349');\n  var vizElement = divElement.getElementsByTagName('object')[0];\n  if ( divElement.offsetWidth > 800 ) {\n  vizElement.style.width='1023px';\n  vizElement.style.height='1427px';\n  } else if ( divElement.offsetWidth > 500 ) {\n  vizElement.style.width='1023px';\n  vizElement.style.height='1427px';\n  } else {\n  vizElement.style.width='100%';\n  vizElement.style.height='777px';\n  }\n  var scriptElement = document.createElement('script');\n  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';\n  vizElement.parentNode.insertBefore(scriptElement, vizElement);\n</script>"
     },
     {
-        "keys": [
-            "title",
-            "author",
-            "date",
-            "description",
-            "thumbnail",
-            "images",
-            "keywords"
-        ],
         "metadata": {
             "title": "Methodology on COVID-19 impact surveys",
             "author": [
@@ -46,15 +28,6 @@
         "body": "<div class='tableauPlaceholder' id='viz1594235978233' style='position: relative'>\n  <noscript>\n    <a href='#'>\n      <img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;KJ&#47;KJ76R3W89&#47;1_rss.png' style='border: none' />\n    </a>\n  </noscript>\n  <object class='tableauViz'  style='display:none;'>\n    <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> \n    <param name='embed_code_version' value='3' /> \n    <param name='path' value='shared&#47;KJ76R3W89' /> \n    <param name='toolbar' value='yes' />\n    <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;KJ&#47;KJ76R3W89&#47;1.png' /> \n    <param name='animate_transition' value='yes' />\n    <param name='display_static_image' value='yes' />\n    <param name='display_spinner' value='yes' />\n    <param name='display_overlay' value='yes' />\n    <param name='display_count' value='yes' />\n    <param name='language' value='en' />\n    <param name='filter' value='publish=yes' />\n  </object>\n</div>\n<script type='text/javascript'>\n  var divElement = document.getElementById('viz1594235978233');\n  var vizElement = divElement.getElementsByTagName('object')[0];\n  if ( divElement.offsetWidth > 800 ) { \n    vizElement.style.width='1023px';\n    vizElement.style.height='1427px';\n  } else if ( divElement.offsetWidth > 500 ) { \n    vizElement.style.width='1023px';\n    vizElement.style.height='1427px';\n  } else { \n    vizElement.style.width='100%';\n    vizElement.style.height='727px';\n  }                     \n  var scriptElement = document.createElement('script');                    \n  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    \n  vizElement.parentNode.insertBefore(scriptElement, vizElement);                \n</script>"
     },
     {
-        "keys": [
-            "title",
-            "author",
-            "date",
-            "description",
-            "thumbnail",
-            "images",
-            "keywords"
-        ],
         "metadata": {
             "title": "Methodology on COVID-19 impact surveys",
             "author": [

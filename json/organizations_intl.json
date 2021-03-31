@@ -1,11 +1,5 @@
 [
     {
-        "keys": [
-            "name",
-            "acronym",
-            "url",
-            "logo"
-        ],
         "metadata": {
             "name": "Food and Agriculture Organization of the United Nations",
             "acronym": "FAO",
@@ -15,12 +9,6 @@
         "body": ""
     },
     {
-        "keys": [
-            "name",
-            "acronym",
-            "url",
-            "logo"
-        ],
         "metadata": {
             "name": "International Labour Organization",
             "acronym": "ILO",
@@ -30,12 +18,6 @@
         "body": ""
     },
     {
-        "keys": [
-            "name",
-            "acronym",
-            "url",
-            "logo"
-        ],
         "metadata": {
             "name": "United Nations Development Programme",
             "acronym": "UNDP",
@@ -45,12 +27,6 @@
         "body": ""
     },
     {
-        "keys": [
-            "name",
-            "acronym",
-            "url",
-            "logo"
-        ],
         "metadata": {
             "name": "United Nations Economic Commission for Latin America and the Caribbean",
             "acronym": "UNECLAC",
@@ -60,12 +36,6 @@
         "body": ""
     },
     {
-        "keys": [
-            "name",
-            "acronym",
-            "url",
-            "logo"
-        ],
         "metadata": {
             "name": "United Nations Economic Commission for Asia and the Pacific",
             "acronym": "UNESCAP",
@@ -75,12 +45,6 @@
         "body": ""
     },
     {
-        "keys": [
-            "name",
-            "acronym",
-            "url",
-            "logo"
-        ],
         "metadata": {
             "name": "United Nations Educational, Scientific and Curltural Organization",
             "acronym": "UNESCO",
@@ -90,12 +54,6 @@
         "body": ""
     },
     {
-        "keys": [
-            "name",
-            "acronym",
-            "url",
-            "logo"
-        ],
         "metadata": {
             "name": "UNESCO Institute for Statistics",
             "acronym": "UIS",
@@ -105,12 +63,6 @@
         "body": ""
     },
     {
-        "keys": [
-            "name",
-            "acronym",
-            "url",
-            "logo"
-        ],
         "metadata": {
             "name": "United Nations High Commissioner for Refugees",
             "acronym": "UNHCR",
@@ -120,12 +72,6 @@
         "body": ""
     },
     {
-        "keys": [
-            "name",
-            "acronym",
-            "url",
-            "logo"
-        ],
         "metadata": {
             "name": "United Nations Office on Drugs and Crime",
             "acronym": "UNODC",
@@ -135,12 +81,6 @@
         "body": ""
     },
     {
-        "keys": [
-            "name",
-            "acronym",
-            "url",
-            "logo"
-        ],
         "metadata": {
             "name": "United Nations Statistics Division",
             "acronym": "unsd",
@@ -150,12 +90,6 @@
         "body": ""
     },
     {
-        "keys": [
-            "name",
-            "acronym",
-            "url",
-            "logo"
-        ],
         "metadata": {
             "name": "UN Women",
             "acronym": null,
@@ -165,12 +99,6 @@
         "body": ""
     },
     {
-        "keys": [
-            "name",
-            "acronym",
-            "url",
-            "logo"
-        ],
         "metadata": {
             "name": "The World Bank",
             "acronym": "WB",
@@ -180,12 +108,6 @@
         "body": ""
     },
     {
-        "keys": [
-            "name",
-            "acronym",
-            "url",
-            "logo"
-        ],
         "metadata": {
             "name": "World Health Organization",
             "acronym": "WHO",
